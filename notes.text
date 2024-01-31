@@ -1,0 +1,22 @@
+To activate env:     .\venv\Scripts\activate
+Check : 
+Lists:
+
+Ordered collection of elements.
+Mutable (can be modified after creation).
+Example: [1, 2, 3].
+Tuples:
+
+Ordered collection of elements.
+Immutable (cannot be modified after creation).
+Example: (1, 2, 3).
+Sets:
+
+Unordered collection of unique elements.
+Mutable.
+Example: {1, 2, 3}.
+Dictionaries:
+
+Unordered collection of key-value pairs.
+Mutable.
+Example: {'name': 'John', 'age': 25}.
